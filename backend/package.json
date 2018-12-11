@@ -1,0 +1,17 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "An api to serve Spyforhire requests",
+  "main": "api.js",
+  "scripts": {
+    "start": "nodemon api.js"
+  },
+  "author": "Eathan Langford & Bashir Towdiee",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.8"
+  }
+}

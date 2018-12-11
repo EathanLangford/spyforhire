@@ -1,0 +1,81 @@
+[
+{
+    "firstName": "Rick",
+    "lastName": "Sanchez",
+    "specialty": [
+        "Genius"
+    ],
+    "gender": "male",
+    "location": "Earth C137",
+    "bio": "Can travel in multiple dimentions",
+    "confirmed kills": "multiple species"
+},
+{
+    "firstName": "James",
+    "lastName": "Bond",
+    "specialty": [
+        "combat",
+        "gadgets",
+        "charisma",
+        "glorified dickhead"
+    ],
+    "gender": "Male",
+    "location": "England",
+    "bio": "undercover agent for MI6",
+    "confirmed kills": "classified"
+},
+{
+    "firstName": "Austin",
+    "lastName": "Powers",
+    "specialty": [
+        "Judo Chop",
+        "Swedish made penis pump",
+        "Mojo",
+        "Combat"
+    ],
+    "gender": "Male",
+    "location": "England",
+    "bio": "International man of mystery",
+    "confirmed kills": ""
+},
+{
+    "firstName": "Sterling",
+    "lastName": "Archer",
+    "specialty": [
+        "Combat",
+        "Charisma",
+        "weapons expert",
+        "drink mixing",
+        "explosives"
+    ],
+    "gender": "Male",
+    "location": "America",
+    "bio": "Previously working for ISIS but has now started his own organization",
+    "confirmed kills": "99"
+},
+{
+    "firstName": "Jason",
+    "lastName": "Bourne",
+    "specialty": [
+        "combat",
+        "Strategist",
+        "Weapons Expert"
+    ],
+    "gender": "Male",
+    "location": "American",
+    "bio": "Lost his memory. agent for the NSA",
+    "confirmed kills": "Classified"
+},
+{
+    "firstName": "Lorraine",
+    "lastName": "Broughton",
+    "specialty": [
+        "Combat",
+        "Weapons Expert"
+    ],
+    "gender": "Female",
+    "location": "American",
+    "bio": "???",
+    "confirmed kills": "30+"
+}
+]
